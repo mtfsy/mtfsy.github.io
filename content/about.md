@@ -50,7 +50,7 @@ Highly motivated and results-driven Web Developer with 5+ years of experience in
 ### 1. Education Platform
 * **Technologies:** PHP, API, Laravel
 * Developing payment processing for course using Xendit API.
-* Refactor vulnerabelity code and optimize system latency.
+* Refactor vulnarelable code and optimize system latency.
 * Update SQL database schema and optimization using index for faster lookup. 
 
 ---
