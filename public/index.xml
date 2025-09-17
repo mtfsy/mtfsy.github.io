@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Musthofa Syarifudin</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Musthofa Syarifudin</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Sep 2025 10:23:51 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 16 Sep 2025 10:23:51 +0700</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 class=&#34;heading&#34; id=&#34;musthofa-syarifudin&#34;&gt;&#xA;  Musthofa Syarifudin&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#musthofa-syarifudin&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Software Enginner | Infra/Cloud Management|&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;mailto:thofaden@email.com&#34;&gt;Email&lt;/a&gt; | &lt;a href=&#34;https://www.linkedin.com/in/musthofa-s-bb3616179&#34;&gt;LinkedIn&lt;/a&gt; | &lt;a href=&#34;https://github.com/mtfsy&#34;&gt;GitHub&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 class=&#34;heading&#34; id=&#34;-summary&#34;&gt;&#xA;  📄 Summary&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#-summary&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;m software engineering with work experience on consulting, mining, and startup/high growth company. My foccused on improving software delivery and optimization on various facets like CI/CD (Github Action/Jenkins), Infrastucture and Network (OnPrem/AWS/Google Cloud/Azure), Observation (Solarwind, Datadog, Azure Monitor, Google Cloud Logging), Automation (Terraform/Ansible), Database (MySQl, PostGreSQL, CloudSQL, BigQuery, AzureSQL), Security (Network and Infra Hardening, Backup and Restore Data, Investigation Unusual Network Activity (Microsoft Sentinel)), and Internal Developer Platform (Docker, Kubernetes, Google Kubernetes Engine, Azure Kubernetes).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Log-Structured Merge Tree</title>
+      <link>http://localhost:1313/posts/windows_bloatware_issue/</link>
+      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/windows_bloatware_issue/</guid>
+      <description>An LSM Tree overview and Java implementation.</description>
+    </item>
+  </channel>
+</rss>
