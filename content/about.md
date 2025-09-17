@@ -36,7 +36,7 @@ Highly motivated and results-driven Web Developer with 5+ years of experience in
 ## 💼 Work Experience
 
 ### Cloud Software Developer
-**Cloud Enginner | Jakarta, ID**
+**Mitra Informasi Informatika | Jakarta, ID**
 * *Aug 2021 – Present*
 
 * Led a team of 4 engineers in the development of a high-traffic e-commerce platform using **Go** and **Next.js**, handling over 1 million daily requests.
