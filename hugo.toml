@@ -17,7 +17,7 @@ description = "A Personal Blog"
 # Appearance settings
 theme = 'auto'
 colorPalette = 'default'
-hideHeader = true
+hideHeader = false
 showFooter = false
 
 # Intro on main page, content is markdown
