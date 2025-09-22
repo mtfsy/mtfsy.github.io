@@ -13,5 +13,4 @@ tags: ["database", "java"]
 showTags: false
 hideBackToTop: false
 fediverse: "@username@instance.url"
-draft: false
 ---
