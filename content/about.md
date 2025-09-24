@@ -8,14 +8,14 @@ hideBackToTop: true
 ---
 
 # Musthofa Syarifudin
-**Cloud/Infra Software Engineer**
+**Cloud Software Engineer**
 
 **[Email](mailto:thofaden@email.com) | [LinkedIn](https://www.linkedin.com/in/musthofa-s-bb3616179) | [GitHub](https://github.com/mtfsy)**
 
 ---
 
 ## 📄 Summary
-I am sofware enginner, work mainly on cloud, infra, linux, system, service, and service. My skill foccused on leveraging automation, scale, and optimization to solve problem in the industry. My main tools are container (docker, podman, containerd) technology, bash, python, go, and of course google search. I am interested in distributed computing and software engineering topic, hit me on email if you are interested as well. I am also love open source project and contributing as often as i can possible.
+I am sofware enginner, work mainly on cloud, infra, linux, system, service, and service. My skill foccused on leveraging automation, scale, and optimization to solve problem in the industry. My main tools are container (Docker, Podman, Containerd) technology, Bash, Python, Go, and of course google search. I am interested in distributed computing and software engineering topic, hit me on email if you are interested as well. I am also love open source project and contributing as often as i can possible.
 
 <!---
 I am a versatile and experienced Software Engineer dedicated to improving software delivery and optimization. My professional journey has taken me through the consulting, mining, and high-growth startup sectors, giving me a unique and adaptable skill set. My expertise covers the full spectrum of the development lifecycle, from designing and implementing robust CI/CD pipelines with tools like GitHub Actions and Jenkins to managing and securing diverse infrastructure across on-premises environments and major cloud platforms like AWS, Google Cloud, and Azure. I am highly proficient in establishing comprehensive observability with tools such as Datadog, Azure Monitor, and Google Cloud Logging, while also leveraging automation with Terraform and Ansible. I have extensive experience with various databases, including MySQL, PostgreSQL, and BigQuery, and I am skilled in crucial security measures like network hardening and incident response using Microsoft Sentinel. Finally, I am focused on building efficient and scalable Internal Developer Platforms using Docker and Kubernetes, with a special focus on managing these platforms on GKE and AKS.
@@ -32,8 +32,8 @@ Highly motivated and results-driven Web Developer with 5+ years of experience in
 
 ## 🛠️ Skills
 * **Programing Languages:** Go, JavaScript, Python, Rust, PHP, Bash
-* **Databases:** PostgreSQL, MongoDB, mariaDB, SQLite, MySQL, CloudSQl, Azure SQL
-* **Tools:** Git, Docker, Podman, LXC, containerd, prometheus, Grafana, Kubernetes, Amazon Web Service (AWS), Google Cloud, Azure Cloud, Terraform, Ansible, Linux Kernel and Network, Kafka, NiFi.
+* **Databases:** PostgreSQL, MongoDB, MariaDB, SQLite, MySQL, CloudSQl, Azure SQL
+* **Tools:** Git, Docker, Podman, LXC, Containerd, Prometheus, Grafana, Kubernetes, Amazon Web Service (AWS), Google Cloud, Azure Cloud, Terraform, Ansible, Linux Kernel and Network, Kafka, NiFi.
 
 ---
 
@@ -43,10 +43,10 @@ Highly motivated and results-driven Web Developer with 5+ years of experience in
 **Mitra Informasi Informatika | April 2023 – August 2025 | Jakarta, ID**
 * Manage more than 200 machine and disk infrastructure using Terraform on Google Cloud Compute Engine (VM), Managed Instance Group (MIG), and Network infrastructure.
 * Monitoring, solve, and escalation on issue with Google Cloud, Azure Cloud, and OnPrem(Datacenter).
-* Manage data migration project from OnPrem PostGreSQl to CloudSQl using Apache Kafka, Apache NiFi, Google Cloud Pub/Sub, and pglogical based on database requirements and achieveing faster completion timeline from 6 month into 3 months and with more than 3 Terrabyte data migrated over private network tunnel.
+* Manage data migration project from OnPrem PostGreSQL to CloudSQL using Apache Kafka, Apache NiFi, Google Cloud Pub/Sub, and pglogical based on database requirements and achieving faster completion timeline from 6 month into 3 months and with more than 3 Terrabyte data migrated over private network tunnel.
 * Build and manage alert, monitoring dashboard, and report on resource usage on Google Cloud and Azure Cloud Resource using Google Cloud Logging and Monitoring and Azure Monitor.
 * Build and manage CI/CD for deploying production application on Google Kubernetes Engine (GKE), App Engine, Compute Engine (CE), and Managed Instance Group (MIG) using Jenkins.
-* Build centralized log streaming system and service for Operation Teams that stream application data from onpremise and cloud into datadogs using Go Language, OpenTelemetry SDK, Google Cloud Monitor, and Pub/Sub achieving high usage and stable operations on all production microservice application.
+* Build centralized log streaming system and service for Operation Teams that stream application data from onpremise and cloud into Datadogs and Google Cloud Monitor using Go Language, OpenTelemetry SDK, Google Cloud Monitor, and Pub/Sub achieving high usage and stable operations on all production microservice application.
 * Reduce cloud cost for virtual machine (VM), disk, and Big Query using dynamic resizing based on usage strategy, limiting and alert for big query computing usage, and reservations for compute machine and big query slot  achieving 30% reduction usage in span over 6 months.
 * Build, manage, and testing data backup and recovery system for compliance for Bank Indonesia Policy using bash, Wall-G, Google Cloud Storage, and Compute Engine.
 * Manage user access and privilege for corresponding team and projects using Google Cloud IAM, CLI, and Terraform.
@@ -54,8 +54,16 @@ Highly motivated and results-driven Web Developer with 5+ years of experience in
 * Manage onprem datacenter machine and disk using VMWare, Nutanix AHV, and Prism Central.
 * Monitor and troubeshooting application and infra security using Microsoft Sentinel.
 * Monitor, manage, and troubleshooting application issue on Azure Kubernetes Service Application.
-* Check, improve, and automate security hardening for patch, vulnerability, and updates accross more than 100 virtual machine and application using Ansible.
+* Check, improve, and automate security hardening for patch, vulnerability, and updates across more than 100 virtual machine and application using Ansible.
 * Developing alert, infra dashboard, resource mapping, and infra automation for Azure Cloud and onprem resources using Solarwinds.
+
+### Software Enginner
+**KelasBimbel| March 2024 -- January 2025 | Remote**
+* Developing payment processing features with Xendit API using PHP
+* Build deployment workflow using Github
+* Refactor code to optimize system latency by coupling and decoupling system process flow to reduce memory footprint and shortening high usage maximum time.
+* Update and optimize to increase maximum available connection on MariaDB database.
+
 
 ### Cloud & Machine Learning Advisor
 **Merdeka Belajar (Bangkit)| Jan 2023 – July 2023 | Remote**
@@ -77,13 +85,9 @@ Highly motivated and results-driven Web Developer with 5+ years of experience in
 
 ## 💻 Projects
 
-### Web Development Software Engineer
-**PHP | API | Laravel | MariaDB**
-* Developing payment processing features with Xendit API using PHP.
-* Build deployment workflow using Github.
-* Refactor code to optimize system latency by coupling and decoupling system process flow to reduce memory footprint and shortening high usage maximum time.
-* Update and optimize to increase maximum available connection on MariaDB database. 
-
+### open Source Contributor
+**Python**
+* Developing function which enable different machine learning framework to talk to one another example PyTorch to Tensorflow and backwise, enable code conversion using python compiler
 ---
 
 ## 🎓 Education
