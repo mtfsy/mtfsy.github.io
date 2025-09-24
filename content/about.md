@@ -29,9 +29,9 @@ Highly motivated and results-driven Web Developer with 5+ years of experience in
 ---
 
 ## 🛠️ Skills
-* **programing Languages:** Go, JavaScript, Python, Rust, PHP
-* **Databases:** PostgreSQL, MongoDB, SQLite, MySQL
-* **Tools/Platform:** Git, Docker, Kubernetes, AWS, Terraform, Ansible
+* **Programing Languages:** Go, JavaScript, Python, Rust, PHP, Bash
+* **Databases:** PostgreSQL, MongoDB, mariaDB, SQLite, MySQL, CloudSQl, Azure SQL
+* **Tools:** Git, Docker, Podman, LXC, containerd, prometheus, Grafana, Kubernetes, Amazon Web Service (AWS), Google Cloud, Azure Cloud, Terraform, Ansible, Linux Kernel and Network, Kafka, NiFi.
 
 ---
 
@@ -39,49 +39,48 @@ Highly motivated and results-driven Web Developer with 5+ years of experience in
 
 ### Cloud/Infra Software Engineer
 **Mitra Informasi Informatika | April 2023 – August 2025 | Jakarta, ID**
-* Use terraform to manage google cloud  vm (CE), Managed Instance Group (MIG),  and network 
-* Monitoring and troubleshooting google cloud issue regarding network, infra, and internal tools
-* Migrate postgreSQl using kafka, cloud pub/sub, and pglogical
-* Setting up alert for resources monitoring for vm, network, and Big Query
-* Deploy application into google kubernetes engine, app engine, and compute engine
-* Setting up and troubleshooting CI/CD uisng jenkins and github Action
-* Build centralized streaming service that stream onpremise application log into google cloud monitor using pub/sub
-* Help reduce cost for vm, network, big query processing on google cloud
-* Building and testing backup and recovery system for database and vm disk 
-* Building some optimization using cloud function
-* Build set up and monitoring infra log using datadog, and sumologic for google cloud and onprem infra
-* using ansible to automate system check for compliance, patches, and changes.
-* Monitoring and troubleshooting vm, application,and network issue on Azure cloud
-* Manage onprem vm using vmware, nutanix ahv, and prism central
-* Report and optimize cost based on usage to stakeholder
-* Developing alert, infra dashboard, resource mapping, and infra automation for azure cloud and onprem resources using solarwinds
-* Monitor, manage, and troubleshooting application on Azure Kubernetes Service Application 
-* Monitor and troubeshooting application and infra security using microsoft sentinel
+* Manage more than 200 machine and disk infrastructure using Terraform on Google Cloud Compute Engine (VM), Managed Instance Group (MIG), and Network infrastructure.
+* Monitoring, solve, and escalation on issue with Google Cloud, Azure Cloud, and OnPrem(Datacenter).
+* Manage data migration project from OnPrem PostGreSQl to CloudSQl using Apache Kafka, Apache NiFi, Google Cloud Pub/Sub, and pglogical based on database requirements and achieveing faster completion timeline from 6 month into 3 months and with more than 3 Terrabyte data migrated over private network tunnel.
+* Build and manage alert, monitoring dashboard, and report on resource usage on Google Cloud and Azure Cloud Resource using Google Cloud Logging and Monitoring and Azure Monitor.
+* Build and manage CI/CD for deploying production application on Google Kubernetes Engine (GKE), App Engine, Compute Engine (CE), and Managed Instance Group (MIG) using Jenkins.
+* Build centralized log streaming system and service for Operation Teams that stream application data from onpremise and cloud into datadogs using Go Language, OpenTelemetry SDK, Google Cloud Monitor, and Pub/Sub achieving high usage and stable operations on all production microservice application.
+* Reduce cloud cost for virtual machine (VM), disk, and Big Query using dynamic resizing based on usage strategy, limiting and alert for big query computing usage, and reservations for compute machine and big query slot  achieving 30% reduction usage in span over 6 months.
+* Build, manage, and testing data backup and recovery system for compliance for Bank Indonesia Policy using bash, Wall-G, Google Cloud Storage, and Compute Engine.
+* Manage user access and privilege for corresponding team and projects using Google Cloud IAM, CLI, and Terraform.
+* Build and deploy internal optimization tooling for infra team using Cloud Function and Cloud Run.
+* Manage onprem datacenter machine and disk using VMWare, Nutanix AHV, and Prism Central.
+* Monitor and troubeshooting application and infra security using Microsoft Sentinel.
+* Monitor, manage, and troubleshooting application issue on Azure Kubernetes Service Application.
+* Check, improve, and automate security hardening for patch, vulnerability, and updates accross more than 100 virtual machine and application using Ansible.
+* Developing alert, infra dashboard, resource mapping, and infra automation for Azure Cloud and onprem resources using Solarwinds.
 
 ### Cloud & Machine Learning Advisor
-* Handled advisory roles more than 5 student project in areas of machine learning and infra/cloud
-* helping student understand difficulty topics and chlallenge regarding machine learning and infra/cloud
-* Gives student direction when thay face difficulty egarding machine learning and infra/cloud
-
+**Merdeka Belajar (Bangkit)| Jan 2023 – July 2023 | Remote**
+* Handled advisory roles for more than 5 project in areas of machine learning and infra/cloud.
+* Helping student understand difficulty topics and challenge regarding practical application for machine learning and infra/cloud.
+* Gives student direction when they face difficulty on final project.
 
 ### Azure Data And Artificial intelligence (AI)
-* Using Power BI to build dashboard
-* Developing machine learning model using azure ai 
-
+**Merdeka Belajar | August 2021 – December 2021 | Remote**
+* Build machine learning model using Azure Machine Learning 
+* Build connector to Azure Blob Storage, and Azure Machine Learning to create dashboard using Power BI. 
 
 ### Machine Learning Bootcamp
-* Build machine learning model to detect niche disease symptom and recommend to docter check
-* Deploy Application into google cloud
+**Merdeka Belajar (Bangkit) | Jan 2021 – Juny 2021 | Remote**
+* Cleaning data and build training, validation, and testing machine learning (ML) workflow.  
+* Create and deploy application server code into Google Cloud Compute Engine.
 
 ---
 
 ## 💻 Projects
 
-### Education Platform
-* **Technologies:** PHP, API, Laravel
-* Developing payment processing for website using Xendit API.
-* Refactor vulnerable code and optimize system latency.
-* Update SQL database schema and optimization using index for faster lookup. 
+### Web Development Software Engineer
+**PHP | API | Laravel | MariaDB**
+* Developing payment processing features with Xendit API using PHP.
+* Build deployment workflow using Github.
+* Refactor code to optimize system latency by coupling and decoupling system process flow to reduce memory footprint and shortening high usage maximum time.
+* Update and optimize to increase maximum available connection on MariaDB database. 
 
 ---
 
