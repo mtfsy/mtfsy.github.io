@@ -39,7 +39,7 @@ Highly motivated and results-driven Web Developer with 5+ years of experience in
 
 ## 💼 Work Experience
 
-### Cloud/Infra Software Engineer
+### Cloud Software Engineer
 **Mitra Informasi Informatika | April 2023 – August 2025 | Jakarta, ID**
 * Manage more than 200 machine and disk infrastructure using Terraform on Google Cloud Compute Engine (VM), Managed Instance Group (MIG), and Network infrastructure.
 * Monitoring, solve, and escalation on issue with Google Cloud, Azure Cloud, and OnPrem(Datacenter).
