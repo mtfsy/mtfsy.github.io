@@ -1,5 +1,5 @@
 ---
-title: "Log-Structured Merge Tree"
+title: "How to Disable Windows Update With Script"
 author: "Francesco"
 authorAvatarPath: "/avatar.jpeg"
 date: "2023-11-12"
