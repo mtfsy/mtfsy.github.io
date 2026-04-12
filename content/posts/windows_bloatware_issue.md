@@ -1,5 +1,5 @@
 ---
-#title: "How to Disable Windows Update With Script"
+title: "Some Tools to help manage kubernetes node more better and efficient"
 #author: "Francesco"
 #authorAvatarPath: "/avatar.jpeg"
 #date: "2023-11-12"
@@ -14,3 +14,4 @@
 #hideBackToTop: false
 #fediverse: "@username@instance.url"
 ---
+kubectl-debug
