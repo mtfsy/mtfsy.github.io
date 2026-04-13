@@ -15,3 +15,5 @@ title: "Some Tools to help manage kubernetes node more better and efficient"
 #fediverse: "@username@instance.url"
 ---
 kubectl-debug
+keda
+dns
