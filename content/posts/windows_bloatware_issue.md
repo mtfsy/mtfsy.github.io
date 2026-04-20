@@ -14,7 +14,7 @@ title: "Some Tools to help manage kubernetes node more better and efficient"
 #hideBackToTop: false
 #fediverse: "@username@instance.url"
 ---
-kubectl-debug
+kubectl-debugccc
 keda
 dns
 others bbn
