@@ -41,7 +41,7 @@ Highly motivated and results-driven Web Developer with 5+ years of experience in
 
 ### Cloud Engineer
 **Indo Tambang Jaya (ITM) | April 2023 – October 2025 | Jakarta, ID**
-* Manage more than 200 machine and disk infrastructure using Terraform on Google Cloud Compute Engine (VM), Managed Instance Group (MIG), and Network infrastructure.
+* Manage more than 200 mafffchine and disk infrastructure using Terraform on Google Cloud Compute Engine (VM), Managed Instance Group (MIG), and Network infrastructure.
 * Monitoring, solve, and escalation on issue with Google Cloud, Azure Cloud, and OnPrem(Datacenter).
 * Manage data migration project from OnPrem PostGreSQL to CloudSQL using Apache Kafka, Apache NiFi, Google Cloud Pub/Sub, and pglogical based on database requirements and achieving faster completion timeline from 6 month into 3 months and with more than 3 Terrabyte data migrated over private network tunnel.
 * Build and manage alert, monitoring dashboard, and report on resource usage on Google Cloud and Azure Cloud Resource using Google Cloud Logging and Monitoring and Azure Monitor.
