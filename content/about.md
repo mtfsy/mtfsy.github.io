@@ -40,7 +40,34 @@ Highly motivated and results-driven Web Developer with 5+ years of experience in
 ## 💼 Work Experience
 
 ### Cloud Engineer
-**Indo Tambang Jaya (ITM) | April 2023 – October 2025 | Jakarta, ID**
+**Indo Tambang Jaya (ITM) | May 2024 – October 2025 | Jakarta, ID**
+* Use Ansible in Nutanix HCI and VMware ESXi to automate software security, versioning, and license auditing, and scripting to ensuring security compliance, and rapid change distribution for all virtual machines.
+
+* Improve system reliability and performance by identify,diagnosing, and finding solutions to  I/O bottlenecks and resource contention across compute, databases, and network.
+
+* Enabling Cloud FinOps on Azure and Google Cloud Cost Management and Advisor to optimize cost by implemented disk redundancy, storage lifecycle, Rightsizing and Forecasting policies.
+
+* Use Microsoft Sentinel to perform security analysis, advocating troubleshooting, and remediation of infrastructure, service, and user security threats and incidents.
+
+* Supported incident response team during an Akira ransomware incident in root cause analysis and virus containment, followed with sanitization and redeployment of IT infrastructure to restore critical business services.
+
+* Create, manage, optimize, and restore problem in AKS (Azure Kubernetes Service) service.
+
+### Cloud Engineer
+**Astrapay | April 2023 – May 2025 | Jakarta, ID**
+* Leading and manage small team to migrate PostGreSQL database to Cloud SQL via WAL CDC using pglogical, NiFi, Kafka, Airflow using proxy VM for Cloud SQL by private tunnel from on-prem DC achieving approximately 30 percent faster ongoing migration with more than 3 Tb data moved.
+
+* Use Terraform in GCP to provision IAM service accounts, VPC networking, compute resources, and persistent storage helping reduce miss-configuration accident, and increase deploying speed with automated state management.
+
+* Developed payment gateway feature to process transaction initiation, encryption, authorization, webhook event, capture, and settlement using PHP and mariaDB database to achieve secure and zero conflict process.
+
+* Developed container utilities service in Go using API, Gin, and webhook event from monitoring to improve uptime by automating service recovery process.
+
+        
+* Developed log ingest service in Go using Open Telemetry SDK, GCP Pub/Sub, and Logs Router to filter logs from service into Google Cloud Monitoring and Datadog.
+
+* Optimized BigQuery and VM cost using slot reservations, dynamic disk resizing, and usage limiting alerting result in approximately 30\% reduction in cloud cost.
+<!---
 * Manage more than 200 mafffchine and disk infrastructure using Terraform on Google Cloud Compute Engine (VM), Managed Instance Group (MIG), and Network infrastructure.
 * Monitoring, solve, and escalation on issue with Google Cloud, Azure Cloud, and OnPrem(Datacenter).
 * Manage data migration project from OnPrem PostGreSQL to CloudSQL using Apache Kafka, Apache NiFi, Google Cloud Pub/Sub, and pglogical based on database requirements and achieving faster completion timeline from 6 month into 3 months and with more than 3 Terrabyte data migrated over private network tunnel.
@@ -56,7 +83,7 @@ Highly motivated and results-driven Web Developer with 5+ years of experience in
 * Monitor, manage, and troubleshooting application issue on Azure Kubernetes Service Application.
 * Check, improve, and automate security hardening for patch, vulnerability, and updates across more than 100 virtual machine and application using Ansible.
 * Developing alert, infra dashboard, resource mapping, and infra automation for Azure Cloud and onprem resources using Solarwinds.
-
+-->
 ### Software Enginner
 **KelasBimbel| March 2024 -- January 2025 | Remote**
 * Developing payment processing features with Xendit API using PHP
