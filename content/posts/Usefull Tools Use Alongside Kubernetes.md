@@ -17,4 +17,4 @@ autonumber: true
 kubectl-debugccc
 keda
 dns
-others bbn hhh ggg gg g
+others bbn hhh ggg gg gfff
